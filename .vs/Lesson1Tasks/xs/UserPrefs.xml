@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E9979E4C-B8D7-4B1C-B01B-9B4AF39BA3BF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson1Tasks/Program.cs">
+    <Files>
+      <File FileName="Lesson1Tasks/Program.cs" Line="10" Column="24" />
+      <File FileName="Lesson1Tasks/Helpers/Task1.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson1Tasks" expanded="True">
+            <Node name="Lesson1Tasks" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lesson1Tasks PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

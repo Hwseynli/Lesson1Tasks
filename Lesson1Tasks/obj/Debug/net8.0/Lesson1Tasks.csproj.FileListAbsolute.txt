@@ -1,0 +1,14 @@
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/bin/Debug/net8.0/Lesson1Tasks
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/bin/Debug/net8.0/Lesson1Tasks.deps.json
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/bin/Debug/net8.0/Lesson1Tasks.runtimeconfig.json
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/bin/Debug/net8.0/Lesson1Tasks.dll
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/bin/Debug/net8.0/Lesson1Tasks.pdb
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/obj/Debug/net8.0/Lesson1Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/obj/Debug/net8.0/Lesson1Tasks.AssemblyInfoInputs.cache
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/obj/Debug/net8.0/Lesson1Tasks.AssemblyInfo.cs
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/obj/Debug/net8.0/Lesson1Tasks.csproj.CoreCompileInputs.cache
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/obj/Debug/net8.0/Lesson1Tasks.dll
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/obj/Debug/net8.0/refint/Lesson1Tasks.dll
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/obj/Debug/net8.0/Lesson1Tasks.pdb
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/obj/Debug/net8.0/Lesson1Tasks.genruntimeconfig.cache
+/Users/zeyneb/Projects/Lesson1Tasks/Lesson1Tasks/obj/Debug/net8.0/ref/Lesson1Tasks.dll
