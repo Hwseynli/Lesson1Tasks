@@ -34,6 +34,7 @@ class Program
         #endregion
 
         #region Task4
+            Task4.PrintBiggerİsGreater();
         #endregion
 
         #region Task5
